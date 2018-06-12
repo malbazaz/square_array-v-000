@@ -3,6 +3,6 @@ newarray=[]
 array.each do |box|
   dumbox = box**2 
  newarray.push(dumbox)
-  newarray
 end
+newarray 
 end
